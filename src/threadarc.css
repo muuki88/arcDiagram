@@ -1,0 +1,14 @@
+.threadarc path {
+	fill: none;
+	stroke: #0040FF;
+	opacity: 0.4;
+}
+
+.threadarc path:hover {
+    opacity: 0.8;
+}
+
+.threadarc text {
+    font-family: monospace;
+    font-size: 16px;
+}
