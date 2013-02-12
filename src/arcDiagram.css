@@ -1,14 +1,14 @@
-.threadarc path {
+.arc-diagram path {
 	fill: none;
 	stroke: #0040FF;
 	opacity: 0.4;
 }
 
-.threadarc path:hover {
-    opacity: 0.8;
+.arc-diagram path:hover {
+    opacity: 0.7;
 }
 
-.threadarc text {
+.arc-diagram text {
     font-family: monospace;
     font-size: 16px;
 }
